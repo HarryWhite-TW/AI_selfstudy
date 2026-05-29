@@ -10,6 +10,10 @@ This repository folder documents a simple from-scratch workflow:
 
 ## Project Output
 
+## Demo
+
+[HarryWhite-TW/AI_selfstudy](https://github.com/HarryWhite-TW/AI_selfstudy)
+
 The final page displays:
 
 ```text
